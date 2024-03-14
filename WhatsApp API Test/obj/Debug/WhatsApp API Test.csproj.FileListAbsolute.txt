@@ -1,0 +1,7 @@
+C:\Users\vinib\source\repos\WhatsApp API Test\WhatsApp API Test\bin\Debug\WhatsApp API Test.exe.config
+C:\Users\vinib\source\repos\WhatsApp API Test\WhatsApp API Test\bin\Debug\WhatsApp API Test.exe
+C:\Users\vinib\source\repos\WhatsApp API Test\WhatsApp API Test\bin\Debug\WhatsApp API Test.pdb
+C:\Users\vinib\source\repos\WhatsApp API Test\WhatsApp API Test\obj\Debug\WhatsApp API Test.csproj.AssemblyReference.cache
+C:\Users\vinib\source\repos\WhatsApp API Test\WhatsApp API Test\obj\Debug\WhatsApp API Test.csproj.CoreCompileInputs.cache
+C:\Users\vinib\source\repos\WhatsApp API Test\WhatsApp API Test\obj\Debug\WhatsApp API Test.exe
+C:\Users\vinib\source\repos\WhatsApp API Test\WhatsApp API Test\obj\Debug\WhatsApp API Test.pdb
