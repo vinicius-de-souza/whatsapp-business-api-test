@@ -16,7 +16,7 @@ class Program
         string phoneNumberId = "279487821904085";
 
         string apiUrl = $"https://graph.facebook.com/{version}/{phoneNumberId}/messages";
-        string accessToken = "EAANmGfwS5DoBOyiGLE45ZAGEcAUlOHpyRFRvnLXNyWPMtyZCoV1tIknqCAtXBfeZB81EuY6fd2U8UgNzHWCyon7H8EZB8DseCdQOzpowXbgAUFZB93GvxddmCZCZCqGXgCoZAL7ey9ACgImd5ZBxGtU3XZCXFNW5Vat751U7TmvMyLOBWgEH92ZAfDxuw1vIlZCZCQZBj7PB3nZBu8YCdrxvNZBbwBkSW8ALPCZCEU2aG8ncZD"; 
+        string accessToken = ""; 
 
         string jsonBody = @"
         {
